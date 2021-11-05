@@ -29,7 +29,7 @@ async def start(event):
                     buttons=(
                       [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/rapunzeldavetbot?startgroup=a'),
                       Button.url('📣 Support', 'https://t.me/davetbotdestek'),
-                      Button.url('👮‍♂️ Sahibim', 'https://t.me/davetbotdestek')]
+                      Button.url('👮‍♂️ Sahibim', 'https://t.me/adsizinloresi')]
                     ),
                     link_preview=False
                    )
@@ -40,7 +40,7 @@ async def help(event):
                     buttons=(
                       [Button.url('🌟 Beni Bir Gruba Ekle', 'https://t.me/rapunzeldavetbot?startgroup=a'),
                        Button.url('📣 Support', 'https://t.me/davetbotdestek'),
-                      Button.url('👮‍♂️ Sahibim', 'https://t.me/davetbotdestek')]
+                      Button.url('👮‍♂️ Sahibim', 'https://t.me/adsizinloresi')]
                     ),
                     link_preview=False
                    )
